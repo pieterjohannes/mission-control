@@ -8,7 +8,7 @@ Mission Control is a self-hosted project management dashboard designed from the 
 
 ## 📸 Screenshots
 
-> See the `/screenshots` folder for full-size images.
+![Mission Control Kanban Board](docs/assets/kanban-board.png)
 
 *Kanban board, MRR tracker, agent activity feed, and more — all in one dark glassmorphism dashboard.*
 
